@@ -427,7 +427,7 @@ body._lock {
   }
 }
 .hello__avatar {
-  height: 243px;
+  height: 290px;
   width: 243px;
   border-radius: 50%;
   overflow: hidden;
@@ -443,8 +443,8 @@ body._lock {
 }
 @media (min-width: 991.98px) {
   .hello__avatar img:hover {
-    -webkit-transform: scale(1.6);
-            transform: scale(1.6);
+    -webkit-transform: scale(1.5);
+            transform: scale(1.5);
   }
 }
 @media (min-width: 767.98px) {
